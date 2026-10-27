@@ -1,0 +1,16 @@
+# Notebook / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw survey CSV is likely too large for GitHub (100 MB limit).
+# Everyone downloads it themselves — see data/raw/README.md.
+# Remove these lines only if the file is under 100 MB.
+data/raw/*.csv
+data/raw/*.zip
