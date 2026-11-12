@@ -3,7 +3,7 @@
 **CSC 3780 Fundamentals of Data Science — Fall 2026 — Final Project**
 Instructor: Kiril Kuzmin
 Section: [Section] · Group: [Group number]
-Members: [Samia Haynes], [Name 2], [Name 3], [Name 4]
+Members: [Samia Haynes], Jamal Ford, [Name 3], [Name 4]
 
 ## Question
 
