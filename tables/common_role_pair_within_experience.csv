@@ -1,0 +1,6 @@
+ExperienceBand,reference_role,comparison_role,reference_n,comparison_n,reference_median_usd,comparison_median_usd,comparison_minus_reference_usd,both_groups_n_at_least_30
+0-2,Full-stack developer,Back-end developer,84,22,85000.0,93500.0,8500.0,False
+3-5,Full-stack developer,Back-end developer,187,64,100000.0,130000.0,30000.0,True
+6-10,Full-stack developer,Back-end developer,381,144,136000.0,175000.0,39000.0,True
+11-20,Full-stack developer,Back-end developer,465,224,155000.0,185000.0,30000.0,True
+21+,Full-stack developer,Back-end developer,351,161,150000.0,185000.0,35000.0,True

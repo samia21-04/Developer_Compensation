@@ -1,0 +1,19 @@
+{
+  "completed_at_utc": "2026-11-14T22:35:29.018828+00:00",
+  "input_sha256": "f086e0b9370dca3aede85d9fb9c6a236634f35ee54c096f589670b00a5ba4679",
+  "input_unchanged": true,
+  "execution_method": "Every code cell in order, fresh Python namespace per notebook",
+  "notebooks": [
+    {
+      "notebook": "02_distributions.ipynb",
+      "code_cells_executed": 7,
+      "status": "passed"
+    },
+    {
+      "notebook": "03_relationships.ipynb",
+      "code_cells_executed": 8,
+      "status": "passed"
+    }
+  ],
+  "scope": "Part B only; notebooks 01 and 04 not executed"
+}

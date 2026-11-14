@@ -14,3 +14,6 @@ Thumbs.db
 # Remove these lines only if the file is under 100 MB.
 data/raw/*.csv
 data/raw/*.zip
+
+# Local EDA execution logs
+tmp/
