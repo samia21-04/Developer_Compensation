@@ -2,6 +2,13 @@
 
 Save the final PDF here as `final_report.pdf`.
 
+Jamal's completed EDA text is in [jamal_eda_findings.md](jamal_eda_findings.md), with
+additional distribution detail in [jamal_distributions.md](jamal_distributions.md).
+These drafts cover the distributions, relationships, Findings, and EDA limitations.
+Integrate them with the other report sections and review the interpretations together.
+The input hash, package versions, and notebook execution record are saved alongside
+the drafts. Figures and CSV tables are in the repository's `figures/` and `tables/` folders.
+
 ## Required sections
 
 1. Problem and question

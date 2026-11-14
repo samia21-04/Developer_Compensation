@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/samia21-04/Developer_Compensation",
+  "commit": "02b883a473bbafc512003792e53b5126ec48e59b",
+  "verified_at_utc": "2026-11-14T22:34:16.839453+00:00",
+  "text_comparison": "Source content verified after normalizing Git checkout LF/CRLF line endings",
+  "files": {
+    "notebooks/01_data_prep.ipynb": {
+      "github_url": "https://github.com/samia21-04/Developer_Compensation/blob/02b883a473bbafc512003792e53b5126ec48e59b/notebooks/01_data_prep.ipynb",
+      "git_blob_sha": "655821fdd86c829916e939f477c1a9fb6a8dadef",
+      "content_sha256": "e1784fc5940094173e7c33614dd5b334a3f7c60b934c1be3c1e0a8795b8f3359",
+      "checkout_sha256": "6abb7d21a7bea9d2f4ba4176ff70f16161c476a61a0c9c76089e1909730557c8",
+      "bytes_in_checkout": 101272
+    },
+    "data/processed/us_fulltime_clean.csv": {
+      "github_url": "https://github.com/samia21-04/Developer_Compensation/blob/02b883a473bbafc512003792e53b5126ec48e59b/data/processed/us_fulltime_clean.csv",
+      "git_blob_sha": "1c0cbd12ccec70f876d7eff2b6f33d03d19d3259",
+      "content_sha256": "4cfa870345bc51e433bae40fd1e656d5bdd0a3af8b443c8a0a66ff7d742fa25e",
+      "checkout_sha256": "f086e0b9370dca3aede85d9fb9c6a236634f35ee54c096f589670b00a5ba4679",
+      "bytes_in_checkout": 847779
+    }
+  }
+}
