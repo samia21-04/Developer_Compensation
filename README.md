@@ -11,7 +11,11 @@ How do experience, job roles, and work arrangements (remote, hybrid, in-person) 
 
 ## Data
 
-Stack Overflow Annual Developer Survey 2025 — https://survey.stackoverflow.co/
+Stack Overflow Annual Developer Survey 2025.
+
+- Original dataset (141 MB CSV): https://github.com/StackExchange/Survey/raw/refs/heads/main/packages/archive/2025/results.csv ([archive folder](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025), [methodology](https://survey.stackoverflow.co/2025/methodology/))
+- Processed dataset (4,435 rows × 12 columns): https://github.com/samia21-04/Developer_Compensation/blob/main/data/processed/us_fulltime_clean.csv
+
 One row = one survey respondent. The prepared sample contains employed respondents in the United States who reported compensation and meet notebook 01's pay cutoffs. The 2025 employment question does not directly distinguish full-time from part-time work. Compensation measure: `ConvertedCompYearly` (annual total pay in USD), renamed `pay` in the processed file.
 
 See `data/raw/README.md` for download instructions and `data/docs/` for the schema and questionnaire.
@@ -22,7 +26,7 @@ See `data/raw/README.md` for download instructions and `data/docs/` for the sche
 pip install -r requirements.txt
 ```
 
-1. Download the 2025 survey zip and place `survey_results_public.csv` in `data/raw/` (see `data/raw/README.md`).
+1. Only for notebook 01: download the 2025 `results.csv` and save it as `data/raw/survey_results_public.csv` (see `data/raw/README.md`). Notebooks 02–04 need only the committed processed CSV.
 2. Run the notebooks in order, top to bottom:
 
 | Notebook | Covers (rubric) | Reads | Writes |
